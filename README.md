@@ -6,3 +6,6 @@
 
 ### Azure Logic App - Post a file to SharePoint Online
 ![](https://github.com/krishnaji/Azure-demo/blob/master/assests/Post2SharePointLogicApp.gif)
+
+### Azure Logic and Function App - OCR Image with Cognitive Vision API, Insert record into Cosmos DB , Create PDF using Azure Function , Post file to Azure Blob Storage
+![](https://github.com/krishnaji/Azure-demo/blob/master/assests/Ocr-Logic-Function-Apps.gif)
